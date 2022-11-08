@@ -25,7 +25,12 @@ Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
 
 <img  align='left' alt="React" with="30px" height="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' style="padding-right:10px" />
 
-<img  align='left' alt="C#" with="30px" height="30px" src='https://iconscout.com/icon/net-5363130' style="padding-right:10px" />
+<img  align='left' alt="Python" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/python.svg' style="padding-right:10px" />
+
+<img  align='left' alt="Express" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/express.svg' style="padding-right:10px" />
+
+<img  align='left' alt="c#" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/csharp.svg' style="padding-right:10px" />
+
 <br>
 
 ## Trophies github
