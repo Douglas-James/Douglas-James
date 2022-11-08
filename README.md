@@ -19,7 +19,14 @@ Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Douglas-James)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/james-douglas-689053247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JamesDo10294179)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSdv33aFda0PwpHI5F-Jrz-_u3LZxM6a_zg&usqp=CAU' alt='website' height='40'>](https://james-profiless.netlify.app/)  
 
 ## Languages 
-<img align='left' alt="javascript" with="30px
+<img  align='left' alt="javascript" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/javascript.svg' style="padding-right:10px" />
+
+<img  align='left' alt="html" with="30px" height="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' style="padding-right:10px" />
+
+<img  align='left' alt="React" with="30px" height="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' style="padding-right:10px" />
+
+<img  align='left' alt="C#" with="30px" height="30px" src='https://iconscout.com/icon/net-5363130' style="padding-right:10px" />
+<br>
 
 ## Trophies github
 
