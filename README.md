@@ -4,8 +4,14 @@
 
 I'm from Texas, and I work with frameworks React, Python, C#, and basic Javascript, html, and Css. I enjoy learning about different framework through youtube video and Reading books . I'm recent Alumni of Coding Dojo where spend many hours per day learning and coding my own application.
 
-Skills: Vite/ REACT / JS / HTML / CSS/ C#/ Python
+## Skills
+* ❄︎ React
+* E Express
+* C C#
+* 🐍 Python
 
+
+Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
 - 🔭 I’m currently working on Person project  
 - 🌱 I’m currently learning Vite  
 
