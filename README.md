@@ -18,7 +18,7 @@ Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Douglas-James)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/james-douglas-689053247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JamesDo10294179)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://james-profiless.netlify.app/)  
 
-## Trophies github
+<!-- ## Trophies github
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Douglas-James)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -31,3 +31,4 @@ Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Douglas-James)  
 
 ![Profile views](https://gpvc.arturio.dev/Douglas-James)  
+ -->
