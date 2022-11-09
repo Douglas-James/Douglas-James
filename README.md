@@ -18,7 +18,7 @@ Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Douglas-James)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/james-douglas-689053247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JamesDo10294179)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSdv33aFda0PwpHI5F-Jrz-_u3LZxM6a_zg&usqp=CAU' alt='website' height='40'>](https://james-profiless.netlify.app/)  
 
-## Languages 
+## Languages and Frameworks
 <img  align='left' alt="javascript" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/javascript.svg' style="padding-right:10px" />
 
 <img  align='left' alt="html" with="30px" height="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' style="padding-right:10px" />
@@ -35,6 +35,11 @@ Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
 
 <img  align='left' alt="Node" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/node-js.svg' style="padding-right:10px" />
 
+<img  align='left' alt="MongDb" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/mongodb.svg' style="padding-right:10px" />
+
+<img  align='left' alt="Css" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/css3.svg' style="padding-right:10px" />
+
+<img  align='left' alt="Bootsrap" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/bootstrap.svg' style="padding-right:10px" />
 
 <br>
 
