@@ -31,6 +31,7 @@ Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
 
 <img  align='left' alt="c#" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/csharp.svg' style="padding-right:10px" />
 
+<img  align='left' alt="Flask" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/flask.svg' style="padding-right:10px" />
 <br>
 
 ## Trophies github
