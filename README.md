@@ -1,5 +1,5 @@
 #### Junior Developer
-![Junior Developer](https://media-exp1.licdn.com/dms/image/D5616AQESYqafTYUniQ/profile-displaybackgroundimage-shrink_350_1400/0/1662656228374?e=1673481600&v=beta&t=uP5_XUFro8qBQ8AX_XSdwrdZW5hYAyEeH3i1jD1-i_M)
+![Junior Developer](https://avatars.githubusercontent.com/u/104114920?s=400&u=1b8ce8d62cfcef1999942ebad3d053b695c241ca&v=4)
 
 ### Hi there 
 I'm from Texas,I work with the frameworks React, Python, C#, and basic Javascript, html, and Css. I enjoy learning about different framework through youtube video and Reading books . I'm recent Alumni of Coding Dojo where spend many hours per day learning and coding.
