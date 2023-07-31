@@ -71,5 +71,12 @@ I'm always open to new opportunities, collaborations, or just connecting with fe
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Douglas-James)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/james-douglas-689053247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JamesDo10294179)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSdv33aFda0PwpHI5F-Jrz-_u3LZxM6a_zg&usqp=CAU' alt='website' height='40'>](https://chic-custard-bc31a2.netlify.app/)  
 
+## Projects
+In this repository, you will find a collection of projects I have worked on during my learning journey. Each project is organized into its own folder and includes a detailed README providing an overview of the project, technologies used, and how to set it up locally.
+
+Some of the projects you will find here include:
+
+
+
 Let's build something amazing together! Happy coding! 🚀
 
