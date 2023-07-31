@@ -77,6 +77,5 @@ In this repository, you will find a collection of projects I have worked on duri
 Some of the projects you will find here include:
 
 
-
 Let's build something amazing together! Happy coding! 🚀
 
