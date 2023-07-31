@@ -1,4 +1,4 @@
-#### Junior Developer
+#### Welcome to my GitHub repository!
 ![Junior Developer](https://avatars.githubusercontent.com/u/104114920?s=400&u=1b8ce8d62cfcef1999942ebad3d053b695c241ca&v=4)
 
 ### Hi there 
@@ -46,6 +46,12 @@ Other Tools: npm, Webpack, Babel, yarn
 <img  align='left' alt="Bootsrap" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/bootstrap.svg' style="padding-right:10px" />
 
 <br>
+## Projects
+In this repository, you will find a collection of projects I have worked on during my learning journey. Each project is organized into its own folder and includes a detailed README providing an overview of the project, technologies used, and how to set it up locally.
+
+Some of the projects you will find here include:
+
+
 
 ## Trophies github
 
