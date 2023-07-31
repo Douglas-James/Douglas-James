@@ -2,21 +2,25 @@
 ![Junior Developer](https://avatars.githubusercontent.com/u/104114920?s=400&u=1b8ce8d62cfcef1999942ebad3d053b695c241ca&v=4)
 
 ### Hi there 
-I'm from Texas,I work with the frameworks React, Python, C#, and basic Javascript, html, and Css. I enjoy learning about different framework through youtube video and Reading books . I'm recent Alumni of Coding Dojo where spend many hours per day learning and coding.
+Hi there! I'm James, a passionate and enthusiastic Junior Full Stack Developer. This repository serves as a showcase of my projects, skills, and journey as I grow and learn in the world of web development. I am eager to contribute to exciting projects and collaborate with fellow developers to create innovative solutions.
+
+
 
 ## Skills
-* ❄︎ React
-* E Express
-* C C#
-* 🐍 Python
+Problem-solving: I enjoy tackling complex problems and breaking them down into manageable steps to find effective solutions.
+Collaboration: I believe in the power of teamwork and actively contribute to group discussions and projects.
+Fast Learner: I have a growth mindset and always strive to learn and improve my skills.
+Attention to Detail: I pay close attention to details to ensure clean and optimized code.
 
 
-Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
-- 🔭 I’m currently working on Person project  
-- 🌱 I’m currently learning Vite  
+## Tech Stack
+As a Junior Full Stack Developer, I have been learning and exploring various technologies. Some of the key technologies and tools I am familiar with include:
+Frontend: HTML, CSS, JavaScript, React.js, Vue.js
+Backend: Node.js, Express.js, Flask
+Database: MongoDB, MySQL
+Version Control: Git, GitHub
+Other Tools: npm, Webpack, Babel, yarn
 
-## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Douglas-James)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/james-douglas-689053247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JamesDo10294179)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSdv33aFda0PwpHI5F-Jrz-_u3LZxM6a_zg&usqp=CAU' alt='website' height='40'>](https://chic-custard-bc31a2.netlify.app/)  
 
 ## Languages and Frameworks
 <img  align='left' alt="javascript" with="30px" height="30px" src='https://github.com/Douglas-James/github-profile/blob/master/javascript.svg' style="padding-right:10px" />
@@ -54,4 +58,12 @@ Skills: Vite/ Express/ REACT / JS / HTML / CSS/ C#/ Python
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Douglas-James)  
 
 ![Profile views](https://gpvc.arturio.dev/Douglas-James)  
+
+
+## How to Get in Touch
+I'm always open to new opportunities, collaborations, or just connecting with fellow developers and tech enthusiasts. Feel free to reach out to me via email or connect with me on LinkedIn.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Douglas-James)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/james-douglas-689053247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JamesDo10294179)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSdv33aFda0PwpHI5F-Jrz-_u3LZxM6a_zg&usqp=CAU' alt='website' height='40'>](https://chic-custard-bc31a2.netlify.app/)  
+
+Let's build something amazing together! Happy coding! 🚀
 
