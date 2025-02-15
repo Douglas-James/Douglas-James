@@ -1,0 +1,14 @@
+name: Display README
+
+on: [push]
+
+jobs:
+  display-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Display README
+        run: cat README.md
