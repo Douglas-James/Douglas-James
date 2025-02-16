@@ -13,20 +13,18 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Update README
         run: |
-          # Your script to update the README.md file
           echo "Updating README.md"
-          # Example: echo "Last updated: $(date)" >> README.md
+          echo "Last updated: $(date)" > README.md
 
-      - name: Commit and push changes
+      - name: Commit and push changes if necessary
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git diff --quiet && exit 0  # Exit if no changes
           git add README.md
           git commit -m "Update README"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
